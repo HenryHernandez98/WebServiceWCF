@@ -1,0 +1,6 @@
+c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.dll.config
+c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.dll
+c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\WebServiceWCF\WebServiceWCF\bin\WebServiceWCF.pdb
+c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.csprojResolveAssemblyReference.cache
+c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.dll
+c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\WebServiceWCF\WebServiceWCF\obj\Debug\WebServiceWCF.pdb
